@@ -1,0 +1,7 @@
+streamlit  #ui framework
+pandas     #data manipulation
+numpy      #data handling 
+scikit-learn  #Logistic Regression, preprocessing, evaluation
+matplotlib    #plots for EDA & evaluation
+seaborn
+joblib     #to save & load the trained model
