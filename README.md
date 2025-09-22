@@ -5,7 +5,7 @@ An interactive Machine Learning + Streamlit project that predicts whether a pass
 🔗 Live Demo
 
 You can try the live app here:
-Titanic Survival Prediction – Live Streamlit App
+Titanic Survival Prediction – https://titanicsurvivalpredication-hqyyluvqgdpjjes5yuhfif.streamlit.app/
 
 📌 Features
 
