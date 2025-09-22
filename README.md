@@ -2,6 +2,11 @@
 
 An interactive Machine Learning + Streamlit project that predicts whether a passenger would have survived the Titanic disaster.
 
+🔗 Live Demo
+
+You can try the live app here:
+Titanic Survival Prediction – Live Streamlit App
+
 📌 Features
 
 📂 Upload Titanic dataset (train.csv) directly in the app from data folder 
