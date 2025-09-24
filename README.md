@@ -55,8 +55,8 @@ Output:
 🎉 Likely to Survive
 
 📂 Project Structure
-titanic-survival-prediction/
 
+titanic-survival-prediction/
 │── app.py             
 │── requirements.txt   
 │── README.md           
