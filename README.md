@@ -71,6 +71,7 @@ titanic-survival-prediction/
 │── README.md           # Project overview
 │── documentation.txt   # Detailed explanations
 
+
 🎯 Learning Goals
 
 Understand the EDA workflow
