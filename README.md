@@ -2,55 +2,67 @@
 
 An interactive Machine Learning + Streamlit project that predicts whether a passenger would have survived the Titanic disaster.
 
-🔗 Live Demo
-
-You can try the live app here:
-Titanic Survival Prediction – https://titanicsurvivalpredication-hqyyluvqgdpjjes5yuhfif.streamlit.app/
+🔗 Live Demo: Titanic Survival Prediction – https://titanicsurvivalpredication-hqyyluvqgdpjjes5yuhfif.streamlit.app/
 
 📌 Features
 
-📂 Upload Titanic dataset (train.csv) directly in the app from data folder 
+📂 Upload Titanic dataset (train.csv) directly in the app
 
 🔍 Perform Exploratory Data Analysis (EDA) with clear visualizations
 
-📊 View an interactive classification report and metrics
+📊 View an interactive classification report & metrics
 
 🤖 Train a Logistic Regression Model for survival prediction
 
-🎮 Try out custom passenger input to see survival chances
+🎮 Try out custom passenger input to check survival chances
 
 🛠️ Tech Stack
 
 Python
 
-Pandas, NumPy, Matplotlib, Seaborn – for data handling & visualization
+Pandas, NumPy → Data handling
 
-Scikit-learn – for ML model & preprocessing
+Matplotlib, Seaborn → Visualizations
 
-Streamlit – interactive web app
+Scikit-learn → ML model & preprocessing
+
+Streamlit → Interactive web application
 
 🚀 How to Run
 
-Clone this repo
+Clone this repository:
 
 git clone https://github.com/your-username/titanic-survival-prediction.git
-
 cd titanic-survival-prediction
 
 
-Install dependencies
+Install dependencies:
 
 pip install -r requirements.txt
 
 
-Run the app
+Run the Streamlit app:
 
 streamlit run app.py
 
 📊 Example Prediction
 
-A 3rd class female, age 25, no relatives onboard, fare = 32.2, embarked from "S":
-→ 🎉 Likely to Survive
+Input:
+
+Class: 3rd
+
+Gender: Female
+
+Age: 25
+
+Relatives Onboard: 0
+
+Fare: 32.2
+
+Embarked: "S"
+
+Output:
+🎉 Likely to Survive
 
 📂 Project Structure
 titanic-survival-prediction/
@@ -61,13 +73,15 @@ titanic-survival-prediction/
 
 🎯 Learning Goals
 
-Understand EDA workflow
+Understand the EDA workflow
 
-Learn Logistic Regression for classification
+Learn Logistic Regression for classification problems
 
-Gain hands-on experience with Streamlit ML apps
+Gain hands-on experience with ML-powered Streamlit apps
 
 ✨ Author
 
 👩‍💻 Babneek Kaur
-babneeksaini@gmail.com - 8076893417
+📧 Email: babneeksaini@gmail.com
+
+📱 Contact: 8076893417
