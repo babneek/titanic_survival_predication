@@ -56,10 +56,10 @@ Output:
 
 📂 Project Structure
 titanic-survival-prediction/
-│── app.py              # Streamlit application
-│── requirements.txt    # Dependencies
-│── README.md           # Project overview
-│── documentation.txt   # Detailed explanations
+│── app.py             
+│── requirements.txt   
+│── README.md           
+│── documentation.txt   
 
 🎯 Learning Goals
 
