@@ -56,6 +56,7 @@ Output:
 
 📂 Project Structure
 titanic-survival-prediction/
+
 │── app.py             
 │── requirements.txt   
 │── README.md           
