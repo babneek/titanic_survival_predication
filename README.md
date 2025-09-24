@@ -31,18 +31,13 @@ Streamlit → Interactive web application
 🚀 How to Run
 
 Clone this repository:
-
 git clone https://github.com/your-username/titanic-survival-prediction.git
 cd titanic-survival-prediction
 
-
 Install dependencies:
-
 pip install -r requirements.txt
 
-
 Run the Streamlit app:
-
 streamlit run app.py
 
 📊 Example Prediction
@@ -50,15 +45,10 @@ streamlit run app.py
 Input:
 
 Class: 3rd
-
 Gender: Female
-
 Age: 25
-
 Relatives Onboard: 0
-
 Fare: 32.2
-
 Embarked: "S"
 
 Output:
@@ -66,11 +56,10 @@ Output:
 
 📂 Project Structure
 titanic-survival-prediction/
-│── app.py # Streamlit application
-│── requirements.txt # Dependencies
-│── README.md # Project overview
-│── documentation.txt # Detailed explanations
-
+│── app.py              # Streamlit application
+│── requirements.txt    # Dependencies
+│── README.md           # Project overview
+│── documentation.txt   # Detailed explanations
 
 🎯 Learning Goals
 
@@ -80,9 +69,9 @@ Learn Logistic Regression for classification problems
 
 Gain hands-on experience with ML-powered Streamlit apps
 
+
 ✨ Author
 
 👩‍💻 Babneek Kaur
 📧 Email: babneeksaini@gmail.com
-
 📱 Contact: 8076893417
